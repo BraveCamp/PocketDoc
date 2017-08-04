@@ -1,29 +1,29 @@
 body{
 	background-color:;
 	color:;
-	font-family: Futura, Impact, Helvetica, Arial, sans-serif;
+	font-family: Palatino, ‘Book Antiqua’, Georgia, Garamond, ‘Times New Roman’, Times, serif;
 }
 
 .feeling-today{
 	color: black;
-	font-size: 50px;
-	font-family: Futura, Impact, Helvetica, Arial, sans-serif;
+	font-size: 30px;
+	font-family: Palatino, ‘Book Antiqua’, Georgia, Garamond, ‘Times New Roman’, Times, serif;
 }
 
 .penguins-awe{
 	color: black;
-	font-size: 50px;
-	font-family: Futura, Impact, Helvetica, Arial, sans-serif;
+	font-size: 30px;
+	font-family: Palatino, ‘Book Antiqua’, Georgia, Garamond, ‘Times New Roman’, Times, serif;
 }
 .symptom-daily{
 	color: black;
-	font-size: 50px;
-	font-family: Futura, Impact, Helvetica, Arial, sans-serif;
+	font-size: 30px;
+	font-family: Palatino, ‘Book Antiqua’, Georgia, Garamond, ‘Times New Roman’, Times, serif;
 }
 
 .daily{
 	color: black;
-	font size: 50px;
+	font size: 30px;
 	font-family:Futura, Impact, Helvetica, Arial, sans-serif;
 }
 
