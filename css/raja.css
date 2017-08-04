@@ -24,11 +24,17 @@ body{
 .daily{
 	color: black;
 	font size: 30px;
-	font-family:Futura, Impact, Helvetica, Arial, sans-serif;
+	font-family: Palatino, ‘Book Antiqua’, Georgia, Garamond, ‘Times New Roman’, Times, serif;
 }
 
 .page-header{
 	margin-top: 100px;
 	color: red;
-	font-family: Futura, Impact, Helvetica, Arial, sans-serif;
+	font-family: Palatino, ‘Book Antiqua’, Georgia, Garamond, ‘Times New Roman’, Times, serif;
+}
+
+.done{
+	color: black;
+	font size: 50px;
+	font-family: Palatino, ‘Book Antiqua’, Georgia, Garamond, ‘Times New Roman’, Times, serif ;
 }
