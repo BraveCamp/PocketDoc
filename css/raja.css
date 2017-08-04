@@ -1,0 +1,34 @@
+body{
+	background-color:;
+	color:;
+	font-family: Futura, Impact, Helvetica, Arial, sans-serif;
+}
+
+.feeling-today{
+	color: black;
+	font-size: 50px;
+	font-family: Futura, Impact, Helvetica, Arial, sans-serif;
+}
+
+.penguins-awe{
+	color: black;
+	font-size: 50px;
+	font-family: Futura, Impact, Helvetica, Arial, sans-serif;
+}
+.symptom-daily{
+	color: black;
+	font-size: 50px;
+	font-family: Futura, Impact, Helvetica, Arial, sans-serif;
+}
+
+.daily{
+	color: black;
+	font size: 50px;
+	font-family:Futura, Impact, Helvetica, Arial, sans-serif;
+}
+
+.page-header{
+	margin-top: 100px;
+	color: red;
+	font-family: Futura, Impact, Helvetica, Arial, sans-serif;
+}
